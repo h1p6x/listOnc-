@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606452808 source:g:\Проекты кодблокс\список\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<locale.h>
+
